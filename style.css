@@ -1,0 +1,27 @@
+header {
+    background-color: #dcdcdc;
+}
+main{
+    background-color: aquamarine;
+    padding: 5px 0px;
+    border-bottom: 3px solid yellow;
+}
+.empl-ist{
+    background-color: aquamarine;
+    padding: 20px 0;
+}
+
+.footer-copyright{
+    text-align: center;
+    background-color: #dcdcdc;
+    padding: 20px 0;
+}
+input[type="submit"] {
+    color: red;
+    border: 2px solid black;
+    padding: 7px 30px;
+}
+input[type="submit"]:hover{
+    color: blue;
+    border-radius: 10px;
+}
